@@ -1,6 +1,6 @@
-## sf_data_science
+## My data scince projects
 From the [Skillfactory Data Scince course]()  
-# Проекты
+## Проекты
 [Проект 0. "Игра: Угадай число](https://github.com/Ilya0567/sf_data_science)
 
 [Проект 1. _____](_____)
