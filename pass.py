@@ -1,2 +1,0 @@
-def pas():
-    pass
